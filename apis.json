@@ -1,0 +1,56 @@
+{
+    "name": "Washington State Department of Revenue Sales Tax Rate",
+    "description": "The Employment Security Department helps Washington state\u2019s workers and employers succeed in the global economy by delivering superior employment services, timely unemployment benefits, and a fair and stable unemployment-benefits system.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/669-washington-state-department-of-revenue-sales-tax-rate.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "salessales",
+        "state government",
+        "taxes",
+        "washington"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/washington-state-department-of-revenue-sales-tax-rate\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Washington State Department of Revenue Sales Tax Rate",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/669-washington-state-department-of-revenue-sales-tax-rate.jpg",
+            "humanURL": "http:\/\/dor.wa.gov\/Content\/FindTaxesAndRates\/RetailSalesTax\/DestinationBased\/ClientInterface.aspx",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/washington-state-department-of-revenue-sales-tax-rate-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/dor.wa.gov\/Content\/FindTaxesAndRates\/RetailSalesTax\/DestinationBased\/ClientInterface.aspx"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/access-washington"
+        },
+        {
+            "type": "Email",
+            "url": "AccessWA@des.wa.gov"
+        },
+        {
+            "type": "Email",
+            "url": "publicdisclosure@cts.wa.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/wsdot"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "",
+        "title": "Washington State Department of Revenue Sales Tax Rate",
+        "description": "",
+        "termsOfService": ""
+    },
+    "servers": [
+        "https"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}

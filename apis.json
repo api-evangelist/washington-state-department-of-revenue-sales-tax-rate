@@ -10,8 +10,8 @@
         "taxes",
         "washington"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/washington-state-department-of-revenue-sales-tax-rate\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -25,13 +25,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/washington-state-department-of-revenue-sales-tax-rate-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/washington-state-department-of-revenue-sales-tax-rate\/master\/washington-state-department-of-revenue-sales-tax-rate-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/washington-state-department-of-revenue-sales-tax-rate\/master\/washington-state-department-of-revenue-sales-tax-rate-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Website",
             "url": "http:\/\/dor.wa.gov\/Content\/FindTaxesAndRates\/RetailSalesTax\/DestinationBased\/ClientInterface.aspx"
